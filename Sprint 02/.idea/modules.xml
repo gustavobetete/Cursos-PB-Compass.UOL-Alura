@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 - Java Exceptions/2 - Java Exceptions.iml" filepath="$PROJECT_DIR$/2 - Java Exceptions/2 - Java Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sprint 02.iml" filepath="$PROJECT_DIR$/.idea/Sprint 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 - Java Polimorfismo/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/1 - Java Polimorfismo/bytebank-herdado/bytebank-herdado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 - Java Polimorfismo/bytebank-herdado-conta/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/1 - Java Polimorfismo/bytebank-herdado-conta/bytebank-herdado-conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 - Java Polimorfismo/teste/teste.iml" filepath="$PROJECT_DIR$/1 - Java Polimorfismo/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
