@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate" type="repository">
+    <properties maven-id="hibernate:hibernate:2.1.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hibernate/hibernate/2.1.8/hibernate-2.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
