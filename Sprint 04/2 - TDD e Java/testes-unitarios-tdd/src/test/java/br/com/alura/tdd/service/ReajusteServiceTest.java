@@ -32,7 +32,7 @@ public class ReajusteServiceTest {
 
     @AfterAll
     public static void depoisDeTodos(){
-        System.out.println("DEPOIS DE TODOS ");
+        System.out.println("DEPOIS DE TODOS");
     }
 
     @Test
