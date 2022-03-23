@@ -27,12 +27,12 @@ public class ReajusteServiceTest {
 
     @BeforeAll
     public static void antesDeTodos(){
-        System.out.println("ANTES DE TODOS");
+        System.out.println("Antes de todos");
     }
 
     @AfterAll
     public static void depoisDeTodos(){
-        System.out.println("DEPOIS DE TODOS");
+        System.out.println("Depois de todos");
     }
 
     @Test
